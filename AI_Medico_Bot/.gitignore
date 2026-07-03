@@ -1,0 +1,22 @@
+# Virtual environments
+medico_env/
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# FAISS database
+database/faiss_db/
+
+# Ignore serialized/vector index files
+*.faiss
+*.pkl
