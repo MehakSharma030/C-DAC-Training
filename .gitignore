@@ -1,0 +1,40 @@
+# Virtual environments
+.venv/
+venv/
+env/
+*_env/
+rag_env/
+medico_env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Vector databases
+**/database/faiss_db/
+
+# Serialized models
+*.faiss
+*.pkl
+
+# TensorFlow models (optional)
+*.keras
+*.h5
