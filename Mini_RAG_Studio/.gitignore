@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+rag_env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated vector database
+database/faiss_db/
+
+# Serialized files
+*.faiss
+*.pkl
