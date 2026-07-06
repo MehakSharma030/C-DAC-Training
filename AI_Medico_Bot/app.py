@@ -1138,7 +1138,7 @@ Built using
 
 <p>
 
-Developed by <b>Himanshu Rajak</b>
+Developed by <b>Mehak Sharma</b>
 
 </p>
 
